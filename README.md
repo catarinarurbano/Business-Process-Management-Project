@@ -9,3 +9,10 @@ Objective: Follow the BPM lifecycle approach:
 5. Propose the TO-BE process model, identifying its advantages/disadvantages. Eventually you may specify what other alternatives/scenarios were possibly considered (COULD-BE processes)
 
 
+Authorship (Nova IMS students):
+
+- Catarina Candeias
+- Catarina Urbano
+- Margarida Pereira
+- Rebeca Pinheiro
+- Rita Ferreira
