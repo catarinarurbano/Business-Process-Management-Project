@@ -8,11 +8,3 @@ Objective: Follow the BPM lifecycle approach:
 4. Analyse the AS-IS process using qualitative and quantitative techniques. Identify the issues/problems with the process, like non-value adding steps, wastes, bottlenecks, what-if analysis, scenarios based on simulations, etc. Register the issues and possible solutions in a  suitable way. 
 5. Propose the TO-BE process model, identifying its advantages/disadvantages. Eventually you may specify what other alternatives/scenarios were possibly considered (COULD-BE processes)
 
-
-Authorship (Nova IMS students):
-
-- Catarina Candeias
-- Catarina Urbano
-- Margarida Pereira
-- Rebeca Pinheiro
-- Rita Ferreira
