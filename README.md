@@ -1,4 +1,4 @@
-# Business_Process_Management_Project
+# BPM-PROJECT
 
 
 Objective: Follow the BPM lifecycle approach: 
