@@ -1,7 +1,8 @@
 # BPM-PROJECT
 
+## Objective
 
-Objective: Follow the BPM lifecycle approach: 
+Follow the BPM lifecycle approach: 
 1. Clearly identify the process. Show, why it is a process. 
 2. Describe the process. 
 3. Model the AS-IS business process, i.e., design a detailed BPMN process model reflecting the current state of the process. This BPMN model should not only deal with the “normal course” of action, but also show how different types of errors/ exceptions are handled.
